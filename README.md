@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:fde68a,45:f9a8d4,100:93c5fd&text=yachi666&fontColor=ffffff&fontSize=64&fontAlign=50&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20AI-assisted%20Engineering&descAlign=50&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:fef08a,35:f9a8d4,70:93c5fd,100:86efac&text=yachi666&fontColor=ffffff&fontSize=66&fontAlign=50&fontAlignY=38&desc=Frontend%20%E2%9C%A8%20Backend%20%E2%9C%A8%20AI-assisted%20Engineering&descAlign=50&descAlignY=60" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=EC4899&center=true&vCenter=true&width=760&lines=%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E6%98%8E%E4%BA%AE%E5%8F%88%E5%A5%BD%E7%94%A8%E7%9A%84%E4%BA%A7%E5%93%81;Turning+ideas+into+bright%2C+practical+software.;Shipping+real+features+with+energy+and+clarity." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1300&color=EC4899&center=true&vCenter=true&width=820&lines=%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E6%98%8E%E4%BA%AE%E3%80%81%E5%A5%BD%E7%94%A8%E3%80%81%E8%83%BD%E8%90%BD%E5%9C%B0%E7%9A%84%E4%BA%A7%E5%93%81;Turning+ideas+into+bright%2C+useful%2C+maintainable+software.;Shipping+real+features+with+energy%2C+clarity%2C+and+care." alt="typing intro" />
 
 <p>
   <a href="https://github.com/yachi666">
@@ -10,11 +10,23 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=yachi666&style=for-the-badge&color=f59e0b" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Building%20with%20energy-60a5fa?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Vibe-Bright%20%26%20Practical-4ade80?style=for-the-badge" alt="Vibe" />
 </p>
 
 </div>
 
-## `whoami`
+## 欢迎来到我的主页 · Welcome
+
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img src="https://github.com/yachi666.png?size=180" width="180" alt="yachi666 avatar" style="border-radius: 24px;" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Focus-Product%20Engineering-f472b6?style=flat-square" alt="Focus" />
+      <img src="https://img.shields.io/badge/Works%20with-TypeScript%20%2B%20Java-60a5fa?style=flat-square" alt="Works with" />
+      <img src="https://img.shields.io/badge/Likes-Clean%20Delivery-fbbf24?style=flat-square" alt="Likes" />
+    </td>
+    <td>
 
 ```text
 yachi666 = developer focused on useful products with lively execution
@@ -24,11 +36,15 @@ yachi666 = developer focused on useful products with lively execution
 - Prefer clean structure, fast iteration, and real business value
 ```
 
-## 关于我 · About Me
-
 我喜欢做真正能被用起来、也让人愿意继续使用的系统。最近主要在做排班相关的前后端协作、体验优化，以及把 AI 辅助开发流程沉淀为可复用的方法与模板。
 
 I like building systems that are not only functional, but also pleasant to keep using. Recently I have been working on roster-related frontend/backend collaboration, UX refinement, and reusable AI-assisted development workflows.
+
+  </td>
+  </tr>
+</table>
+
+## 快速速写 · Snapshot
 
 <table>
   <tr>
@@ -97,15 +113,26 @@ I like building systems that are not only functional, but also pleasant to keep 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yachi666&bg_color=fff7ed&color=ec4899&line=f59e0b&point=60a5fa&area=true&hide_border=true&radius=10" alt="Contribution activity graph" />
 </div>
 
-## 最近贡献 · Recent Activity
+## 最近代码更新 · Live Recent Updates
 
-这部分会通过 GitHub Actions 自动刷新，联动你最近的公开 GitHub Activity。
+这部分会自动读取你最近公开仓库的最新提交，并定时刷新到主页里。
 
-This section is updated automatically by GitHub Actions to reflect your latest public GitHub activity.
+This section is generated automatically from the latest commits in your recent public repositories.
 
-<!--START_SECTION:activity-->
-- 🎉 Initializing live recent activity feed...
-<!--END_SECTION:activity-->
+<table>
+  <tr>
+    <td>
+
+<!--START_SECTION:recent-updates-->
+- ✨ **2026-03-22** · [yachi666](https://github.com/yachi666/yachi666) — [feat: brighten profile README and automate activity](https://github.com/yachi666/yachi666/commit/6fb21c5247ff2ee772506ffb17e3adcee24f47f4)
+- ✨ **2026-03-21** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [feat: add runtime logs directory to .gitignore](https://github.com/yachi666/support-roster-server/commit/ece14e4bc0e80b69b1de5987c9d65575d5c6678e)
+- ✨ **2026-03-21** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [docs: refresh specs and README](https://github.com/yachi666/support-roster-ui/commit/eb2f93df188c1270c224af3a864aac54b0c7f40d)
+- ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
+<!--END_SECTION:recent-updates-->
+
+  </td>
+  </tr>
+</table>
 
 > Full activity stream: <https://github.com/yachi666?tab=overview>
 
@@ -143,6 +170,6 @@ This section is updated automatically by GitHub Actions to reflect your latest p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:93c5fd,50:f9a8d4,100:fde68a" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:93c5fd,50:f9a8d4,100:fef08a" alt="footer" />
 
 </div>
