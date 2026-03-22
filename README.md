@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Vibe-Bright%20%26%20Practical-4ade80?style=for-the-badge" alt="Vibe" />
 </p>
 
+> Bright ideas, practical execution, and software that people actually enjoy using.
+
 </div>
 
 ## 欢迎来到我的主页 · Welcome
@@ -36,15 +38,15 @@ yachi666 = developer focused on useful products with lively execution
 - Prefer clean structure, fast iteration, and real business value
 ```
 
-我喜欢做真正能被用起来、也让人愿意继续使用的系统。最近主要在做排班相关的前后端协作、体验优化，以及把 AI 辅助开发流程沉淀为可复用的方法与模板。
+我喜欢做真正能被用起来、也让人愿意继续使用的系统。相比单纯把功能拼出来，我更在意体验是否顺手、结构是否清晰、以及这套东西能不能被持续演进。最近主要在做排班相关的前后端协作、体验优化，以及把 AI 辅助开发流程沉淀为可复用的方法与模板。
 
-I like building systems that are not only functional, but also pleasant to keep using. Recently I have been working on roster-related frontend/backend collaboration, UX refinement, and reusable AI-assisted development workflows.
+I like building systems that are not only functional, but also pleasant to keep using. More than just shipping features, I care about usability, clarity, and whether the system can keep evolving cleanly over time. Recently I have been working on roster-related frontend/backend collaboration, UX refinement, and reusable AI-assisted development workflows.
 
   </td>
   </tr>
 </table>
 
-## 快速速写 · Snapshot
+## 核心气质 · Brand Snapshot
 
 <table>
   <tr>
@@ -59,6 +61,31 @@ I like building systems that are not only functional, but also pleasant to keep 
     <td width="33%">
       <strong>持续关注</strong><br />
       TypeScript · Java · GitHub-native delivery
+    </td>
+  </tr>
+</table>
+
+## 我在意什么 · What I Care About
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>产品感</strong><br />
+      不只把功能做出来，也关心它是否真的顺手、可信、可持续。
+      <br /><br />
+      Build for actual usage, not just feature completion.
+    </td>
+    <td width="33%">
+      <strong>工程质感</strong><br />
+      喜欢清晰结构、稳定交付、可维护的代码与文档。
+      <br /><br />
+      Clean structure, reliable delivery, and maintainable code.
+    </td>
+    <td width="33%">
+      <strong>复用能力</strong><br />
+      把经验沉淀成模板、提示词和协作方式，而不只停留在一次实现。
+      <br /><br />
+      Turn experience into reusable workflows, not one-off fixes.
     </td>
   </tr>
 </table>
@@ -155,10 +182,10 @@ This section is generated automatically from the latest commits in your recent p
 
 ## 开发偏好 · How I Like to Build
 
-- 先把业务问题理解透，再去设计实现路径
-- 喜欢前后端联动、文档补齐、把功能做成能长期维护的形态
-- 重视 README、规格、提交记录这些“工程沟通界面”
-- Enjoy systems that feel energetic, coherent, and easy to evolve
+- 先把业务问题理解透，再设计实现路径和交付节奏
+- 喜欢前后端联动、文档补齐，以及把功能做成能长期维护的形态
+- 重视 README、规格、提交记录这些工程沟通界面
+- I enjoy building software that feels coherent from product intent to code delivery
 
 ## Connect
 
@@ -166,6 +193,10 @@ This section is generated automatically from the latest commits in your recent p
   <a href="https://github.com/yachi666">
     <img src="https://img.shields.io/badge/Profile-Visit%20GitHub-60a5fa?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" />
   </a>
+</p>
+
+<p align="center">
+  Thanks for stopping by — welcome to explore my recent work.
 </p>
 
 <div align="center">
