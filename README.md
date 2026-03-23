@@ -151,9 +151,9 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/feb6c3c50942baf50c1eda660b7145718a2f4424)
-- ✨ **2026-03-23** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #1 from yachi666/feature/workspace-ux-overhaul](https://github.com/yachi666/support-roster-ui/commit/037b3938f0ee8f662d5b7b0a3f6b3a0147f5f95d)
-- ✨ **2026-03-23** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #1 from yachi666/feature/workspace-ux-overhaul](https://github.com/yachi666/support-roster-server/commit/430288526c23adbb28d3596f04eac21713267430)
+- ✨ **2026-03-23** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #2 from yachi666/feature/roster-model-upgrade-20260323](https://github.com/yachi666/support-roster-ui/commit/8f8f96347da57b65fb8235a7c822d7c37c82f37c)
+- ✨ **2026-03-23** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #2 from yachi666/feature/roster-model-upgrade-20260323](https://github.com/yachi666/support-roster-server/commit/f1eed845cc8030f4b500bc17e903ddce78c8a717)
+- ✨ **2026-03-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/c943921bc52c30beb6dfdd1d55e5d9bb144738d6)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
 <!--END_SECTION:recent-updates-->
 
