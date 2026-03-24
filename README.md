@@ -151,9 +151,9 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/5de8e8b0ad486fce44d88b678b4e4f32e1b95f38)
-- ✨ **2026-03-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #10 from yachi666/feat/access-policy-jwt-auth-20260324-0408](https://github.com/yachi666/support-roster-server/commit/00b344f9e0d74e4fb5e432613a280b39edab20f3)
-- ✨ **2026-03-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #8 from yachi666/feat/frontend-access-policy-20260324-0412](https://github.com/yachi666/support-roster-ui/commit/24aba230f72a30d5b72f83565cd81597a2c2de10)
+- ✨ **2026-03-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #10 from yachi666/chore/apache-2-license-20260324](https://github.com/yachi666/support-roster-ui/commit/76a83c507bd15a887b472de26830b189683e9599)
+- ✨ **2026-03-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #11 from yachi666/chore/apache-2-license-20260324](https://github.com/yachi666/support-roster-server/commit/5a84ac1ab696a8637e497400492b3addedd0a780)
+- ✨ **2026-03-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/df1b54ea3001c4c3da1829e02c7cd7b8adeba2be)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
 <!--END_SECTION:recent-updates-->
 
