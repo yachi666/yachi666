@@ -151,7 +151,7 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/3b92eb5d85ccf5fd55f441dbbf2d6657e8f2a802)
+- ✨ **2026-03-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/2c3a8416fd94172f877f70e0d60ab188c7c70eca)
 - ✨ **2026-03-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: add viewer workspace entry (#13)](https://github.com/yachi666/support-roster-ui/commit/a70c4f6fade30bc05bad7e384b986ea50ac401fc)
 - ✨ **2026-03-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: harden employee lookup fallback (#15)](https://github.com/yachi666/support-roster-server/commit/462855c6eb275adfde904e478845bcee15753004)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
