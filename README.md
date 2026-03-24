@@ -151,9 +151,9 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
+- ✨ **2026-03-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: add viewer workspace entry (#13)](https://github.com/yachi666/support-roster-ui/commit/a70c4f6fade30bc05bad7e384b986ea50ac401fc)
+- ✨ **2026-03-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/9682bcbd289352010594ff8272c2ec0c6e52315c)
 - ✨ **2026-03-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: harden employee lookup fallback (#15)](https://github.com/yachi666/support-roster-server/commit/462855c6eb275adfde904e478845bcee15753004)
-- ✨ **2026-03-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #12 from yachi666/chore/apache-2-license-20260324](https://github.com/yachi666/support-roster-ui/commit/c65f13c64a5f6f5f55d72c341778ab0414abef93)
-- ✨ **2026-03-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b476cd03d6317cc2ed3218b28bbbd4373b995078)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
 <!--END_SECTION:recent-updates-->
 
