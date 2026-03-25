@@ -151,9 +151,9 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-25** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/eb1cf8d64b0b0c68a846fa1d1d3f58a82e64ddc7)
-- ✨ **2026-03-25** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix/employee-lookup-fallback-20260324 (#16)](https://github.com/yachi666/support-roster-server/commit/cbbb03daa49d1eeb6fe9486d68284159b9563c92)
-- ✨ **2026-03-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: add viewer workspace entry (#13)](https://github.com/yachi666/support-roster-ui/commit/a70c4f6fade30bc05bad7e384b986ea50ac401fc)
+- ✨ **2026-03-25** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Simplify workspace import service (#17)](https://github.com/yachi666/support-roster-server/commit/90d6907353111fa8c8f89230e048cb1febda640a)
+- ✨ **2026-03-25** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Revamp workspace import and team UI (#14)](https://github.com/yachi666/support-roster-ui/commit/5eda609a78ffe339e4bea6e4ece1b67431c7e47f)
+- ✨ **2026-03-25** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/94052f586b36c432c133a134673a962541eda1fe)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
 <!--END_SECTION:recent-updates-->
 
