@@ -151,9 +151,9 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/8912824c45f8adfd7fb99cb90cefb9118f500398)
-- ✨ **2026-03-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [fix: decouple workspace entry from overview access (#17)](https://github.com/yachi666/support-roster-ui/commit/ae779e29b754543e383d4902a713e77841fbe561)
-- ✨ **2026-03-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Enable workspace staff profile autofill (#18)](https://github.com/yachi666/support-roster-server/commit/a5bd85082909904d59c0fa63e88111beb9b74254)
+- ✨ **2026-03-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Prioritize blocking workspace validation issues (#19)](https://github.com/yachi666/support-roster-server/commit/5a5b2de437a3f9159129f64ee1fbbf331523624e)
+- ✨ **2026-03-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Refine validation inbox and workspace entry flow (#18)](https://github.com/yachi666/support-roster-ui/commit/9dde3abd262f111e7418a613d0b2f3b746bcbf39)
+- ✨ **2026-03-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/38de0208a69df84640a5af32c53b7b69d11de395)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
 <!--END_SECTION:recent-updates-->
 
