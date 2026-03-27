@@ -151,9 +151,9 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-27** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/2c61eac9f64dd7b7575935d87ca88dfa2e5361d7)
-- ✨ **2026-03-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Prioritize blocking workspace validation issues (#19)](https://github.com/yachi666/support-roster-server/commit/5a5b2de437a3f9159129f64ee1fbbf331523624e)
-- ✨ **2026-03-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Refine validation inbox and workspace entry flow (#18)](https://github.com/yachi666/support-roster-ui/commit/9dde3abd262f111e7418a613d0b2f3b746bcbf39)
+- ✨ **2026-03-27** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Add validation remediation actions (#20)](https://github.com/yachi666/support-roster-server/commit/9fe3e403c060b11e30b7081225da573370350acf)
+- ✨ **2026-03-27** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Add validation cleanup preview flow (#19)](https://github.com/yachi666/support-roster-ui/commit/3679f080d6fd66d98db0ae2275dbbe1ba8c1e6b4)
+- ✨ **2026-03-27** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/4020a6da2d43ee97975c39ca157eee2d37e28f42)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
 <!--END_SECTION:recent-updates-->
 
