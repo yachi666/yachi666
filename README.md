@@ -151,8 +151,8 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-28** · [game-demo](https://github.com/yachi666/game-demo) — [Mark MVP plan as implemented](https://github.com/yachi666/game-demo/commit/b44ae45a590184d4b2ecd4fb8e7bec9e57e2afd5)
-- ✨ **2026-03-28** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a94e0cb96c41d1ad40f9d712151ef795167ba444)
+- ✨ **2026-03-28** · [game-demo](https://github.com/yachi666/game-demo) — [Update repository agent instructions](https://github.com/yachi666/game-demo/commit/634241ec3b5e3f50bfa94affa4c8572310a04092)
+- ✨ **2026-03-28** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/86a1acd5ae60249670bd4c586d7ea5400d0a5a81)
 - ✨ **2026-03-27** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Refine workspace admin UX flows (#21)](https://github.com/yachi666/support-roster-ui/commit/c1c0cebb384738caa7344312e7be0a30223034b9)
 - ✨ **2026-03-27** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Tighten workspace validation and color handling (#21)](https://github.com/yachi666/support-roster-server/commit/f31acdfc21f9fc28a1457c224fcb0a398984633a)
 - ✨ **2026-03-05** · [reusable-prompts](https://github.com/yachi666/reusable-prompts) — [Update backend_spec_generation.md and rename frontend_spec_generation to frontend_spec_g…](https://github.com/yachi666/reusable-prompts/commit/65fff2d26f216dea97e503feffb7851309fe67bb)
