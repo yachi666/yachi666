@@ -151,7 +151,7 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-03-31** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/dcb562bb1db2268233d17ad5dce4ff7c8ca4a306)
+- ✨ **2026-03-31** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/61860ccf5ffee8591a2c543cdd5778dcd99e516c)
 - ✨ **2026-03-28** · [game-demo](https://github.com/yachi666/game-demo) — [Document infrastructure checklist](https://github.com/yachi666/game-demo/commit/9225aed6c3b7908c688a13c61f487f1ff5cd14a7)
 - ✨ **2026-03-27** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Refine workspace admin UX flows (#21)](https://github.com/yachi666/support-roster-ui/commit/c1c0cebb384738caa7344312e7be0a30223034b9)
 - ✨ **2026-03-27** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Tighten workspace validation and color handling (#21)](https://github.com/yachi666/support-roster-server/commit/f31acdfc21f9fc28a1457c224fcb0a398984633a)
