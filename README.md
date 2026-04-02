@@ -151,7 +151,7 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-02** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/e8cd0680dcef4b6fdc1ede3530e3b180cdb6b185)
+- ✨ **2026-04-02** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/dffe77581428014cb13c1cb1b943df1a8aab61d1)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 - ✨ **2026-04-01** · [switch](https://github.com/yachi666/switch) — [init](https://github.com/yachi666/switch/commit/62944b9051ba2ddcfea127ed39572b255306c359)
 - ✨ **2026-03-27** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Refine workspace admin UX flows (#21)](https://github.com/yachi666/support-roster-ui/commit/c1c0cebb384738caa7344312e7be0a30223034b9)
