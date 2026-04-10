@@ -151,7 +151,7 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-10** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a7a17c7aaf94ef163b99d0aeb15e7be147f9fb35)
+- ✨ **2026-04-10** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/8bd779a809b71c1461f1ee923e292e9b8c87e1b9)
 - ✨ **2026-04-10** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(workspace): streamline roster search and preview editing (#24)](https://github.com/yachi666/support-roster-ui/commit/cf509cf4927048d43c6eac691afeab50db074da1)
 - ✨ **2026-04-10** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: keep hidden teams visible in workspace roster (#23)](https://github.com/yachi666/support-roster-server/commit/b42d6b2d6f17dfc40cbe9b08c194d656fdc90f99)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
