@@ -151,10 +151,10 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-24** · [support-platform](https://github.com/yachi666/support-platform) — [merge: bring in remote support-platform main](https://github.com/yachi666/support-platform/commit/0dfb9887ab92c233516e97544d49fc8b23dc4260)
-- ✨ **2026-04-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/5e0d16cba9882f85302599d291b91ff991c927f1)
-- ✨ **2026-04-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: add linux passwords page with protected redirects (#26)](https://github.com/yachi666/support-roster-ui/commit/dc075a2126484cb69ca06c0a0069f538b40c270b)
-- ✨ **2026-04-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: require auth for workspace accounts page (#24)](https://github.com/yachi666/support-roster-server/commit/10fed7241200046e523c404344349a5fd7e62098)
+- ✨ **2026-04-24** · [support-platform](https://github.com/yachi666/support-platform) — [chore: align submodules with main](https://github.com/yachi666/support-platform/commit/6e49acc631ef6a7653cb8b7cf50a422ea74ffdfb)
+- ✨ **2026-04-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [feat: add workspace linux password management (#25)](https://github.com/yachi666/support-roster-server/commit/860700a90df6f832eaad16bb0687a60b292b618d)
+- ✨ **2026-04-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: refine linux password workspace UI (#27)](https://github.com/yachi666/support-roster-ui/commit/b8b59f978c71c17c6425a4a32ad22e80ff5e1435)
+- ✨ **2026-04-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/5bb07644496b8d0c186fcec3e5fd3305067ba3ac)
 - ✨ **2026-04-14** · [fake-location-ios](https://github.com/yachi666/fake-location-ios) — [docs: split readme by language](https://github.com/yachi666/fake-location-ios/commit/15eac9745a162a9884f206ee5055787fc8fe8729)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 <!--END_SECTION:recent-updates-->
