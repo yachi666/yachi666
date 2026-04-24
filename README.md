@@ -151,10 +151,10 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/3438141309594f6fcb435326f2e252974d331d13)
+- ✨ **2026-04-24** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: add linux passwords page with protected redirects (#26)](https://github.com/yachi666/support-roster-ui/commit/dc075a2126484cb69ca06c0a0069f538b40c270b)
+- ✨ **2026-04-24** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: require auth for workspace accounts page (#24)](https://github.com/yachi666/support-roster-server/commit/10fed7241200046e523c404344349a5fd7e62098)
+- ✨ **2026-04-24** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/8aca3d723a2899e498b02ffeeb2875a40fff9ee8)
 - ✨ **2026-04-14** · [fake-location-ios](https://github.com/yachi666/fake-location-ios) — [docs: split readme by language](https://github.com/yachi666/fake-location-ios/commit/15eac9745a162a9884f206ee5055787fc8fe8729)
-- ✨ **2026-04-13** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(viewer): add Teams contact action (#25)](https://github.com/yachi666/support-roster-ui/commit/1c411c17e987f6370e98a4f6988b199f77004529)
-- ✨ **2026-04-10** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: keep hidden teams visible in workspace roster (#23)](https://github.com/yachi666/support-roster-server/commit/b42d6b2d6f17dfc40cbe9b08c194d656fdc90f99)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 - ✨ **2026-04-01** · [switch](https://github.com/yachi666/switch) — [init](https://github.com/yachi666/switch/commit/62944b9051ba2ddcfea127ed39572b255306c359)
 <!--END_SECTION:recent-updates-->
