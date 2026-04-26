@@ -151,10 +151,10 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/17768cdd442e2482e028ad89c324abb6b7e0b911)
-- ✨ **2026-04-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [fix: align roster navigation buttons (#32)](https://github.com/yachi666/support-roster-ui/commit/9d80c6a0638f681057ecddd148f5694f97198548)
-- ✨ **2026-04-26** · [support-platform](https://github.com/yachi666/support-platform) — [chore: update roster ui submodule (#4)](https://github.com/yachi666/support-platform/commit/87e705f8b128b293b26145befcce5c3787f8add8)
-- ✨ **2026-04-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: allow sparse contact information creation in backend (#27)](https://github.com/yachi666/support-roster-server/commit/e1539b35d902a35ea232b8bd9f74d78d5b1d0a35)
+- ✨ **2026-04-26** · [support-platform](https://github.com/yachi666/support-platform) — [docs: rename root agent instructions (#5)](https://github.com/yachi666/support-platform/commit/0a372a3179309b0293a72ecabc55a0bc8b2e7d18)
+- ✨ **2026-04-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [docs: rename agent instructions (#28)](https://github.com/yachi666/support-roster-server/commit/129c20bffc9f320a2e5c50c63ba6454d798f9328)
+- ✨ **2026-04-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [docs: rename agent instructions (#33)](https://github.com/yachi666/support-roster-ui/commit/5ad85337ea47db036d4a2353e61677a7754e97a7)
+- ✨ **2026-04-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/734f79630cec33f3b497ad8e3626aafe49cecfe7)
 - ✨ **2026-04-14** · [fake-location-ios](https://github.com/yachi666/fake-location-ios) — [docs: split readme by language](https://github.com/yachi666/fake-location-ios/commit/15eac9745a162a9884f206ee5055787fc8fe8729)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 <!--END_SECTION:recent-updates-->
