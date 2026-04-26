@@ -151,10 +151,10 @@ This section is generated automatically from the latest commits in your recent p
     <td>
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-26** · [support-platform](https://github.com/yachi666/support-platform) — [test: add contact information integration coverage (#2)](https://github.com/yachi666/support-platform/commit/82995d8d6fead6581cb6a43f4610d3158664176b)
-- ✨ **2026-04-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat: integrate contact information api (#30)](https://github.com/yachi666/support-roster-ui/commit/4a8a2f74b2354714cb9dc151754501abc1904d83)
-- ✨ **2026-04-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [feat: add contact information api (#26)](https://github.com/yachi666/support-roster-server/commit/2162038bc39644ff083a1b64bb6be4312dc48133)
-- ✨ **2026-04-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b055ae10a9a8b6e6ac7245b0ca5241d6fed0d1bc)
+- ✨ **2026-04-26** · [support-platform](https://github.com/yachi666/support-platform) — [test: cover optional contact information fields (#3)](https://github.com/yachi666/support-platform/commit/0eb265eae8ffc16974110826515f1f1d1a2bbbc8)
+- ✨ **2026-04-26** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [fix: allow sparse contact information creation in UI (#31)](https://github.com/yachi666/support-roster-ui/commit/cdc3f96ae11d0e99fe0a16f8b3a08ea416b3844e)
+- ✨ **2026-04-26** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix: allow sparse contact information creation in backend (#27)](https://github.com/yachi666/support-roster-server/commit/e1539b35d902a35ea232b8bd9f74d78d5b1d0a35)
+- ✨ **2026-04-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b179ebadd5a1677a41dbcfdc4b4fcb67a31cc2c4)
 - ✨ **2026-04-14** · [fake-location-ios](https://github.com/yachi666/fake-location-ios) — [docs: split readme by language](https://github.com/yachi666/fake-location-ios/commit/15eac9745a162a9884f206ee5055787fc8fe8729)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 <!--END_SECTION:recent-updates-->
