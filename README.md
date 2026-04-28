@@ -114,10 +114,10 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-28** · [yachi666](https://github.com/yachi666/yachi666) — [Redesign profile README](https://github.com/yachi666/yachi666/commit/bd9e472e45a271fc441c646e4bdb3c3cd93e1992)
-- ✨ **2026-04-27** · [support-platform](https://github.com/yachi666/support-platform) — [docs: fix parent repo license text](https://github.com/yachi666/support-platform/commit/4a699abbd844abbf69c2a5ac77dda46513efbe3b)
-- ✨ **2026-04-27** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [docs: link parent workspace from README](https://github.com/yachi666/support-roster-server/commit/42be53848ef812dfd572effe48a3ffa99540dd2b)
-- ✨ **2026-04-27** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [docs: add screenshots and parent workspace link](https://github.com/yachi666/support-roster-ui/commit/3789014396bfd93a21f61cff07264ae39214348d)
+- ✨ **2026-04-28** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #6 from yachi666/feat/linux-password-audit-staff-id](https://github.com/yachi666/support-platform/commit/217ce8dfd255b0e32cedff3ac6a6e33f2992b466)
+- ✨ **2026-04-28** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #34 from yachi666/feat/linux-password-audit-staff-id](https://github.com/yachi666/support-roster-ui/commit/0ab7cf6098a52fdd8101af2731c5dba77b62e991)
+- ✨ **2026-04-28** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #30 from yachi666/feat/linux-password-audit-staff-id](https://github.com/yachi666/support-roster-server/commit/c299b450a00a1630511c558a2cd634dddddd01b9)
+- ✨ **2026-04-28** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/32990bd1a7d81be3b5c3112aa12d76f85c4b07ae)
 - ✨ **2026-04-14** · [fake-location-ios](https://github.com/yachi666/fake-location-ios) — [docs: split readme by language](https://github.com/yachi666/fake-location-ios/commit/15eac9745a162a9884f206ee5055787fc8fe8729)
 - ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 <!--END_SECTION:recent-updates-->
