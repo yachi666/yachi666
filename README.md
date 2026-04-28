@@ -114,7 +114,7 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-28** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a58d0bcba9b3b893711501f9f0af4a9127641894)
+- ✨ **2026-04-28** · [yachi666](https://github.com/yachi666/yachi666) — [Redesign profile README](https://github.com/yachi666/yachi666/commit/bd9e472e45a271fc441c646e4bdb3c3cd93e1992)
 - ✨ **2026-04-27** · [support-platform](https://github.com/yachi666/support-platform) — [docs: fix parent repo license text](https://github.com/yachi666/support-platform/commit/4a699abbd844abbf69c2a5ac77dda46513efbe3b)
 - ✨ **2026-04-27** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [docs: link parent workspace from README](https://github.com/yachi666/support-roster-server/commit/42be53848ef812dfd572effe48a3ffa99540dd2b)
 - ✨ **2026-04-27** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [docs: add screenshots and parent workspace link](https://github.com/yachi666/support-roster-ui/commit/3789014396bfd93a21f61cff07264ae39214348d)
