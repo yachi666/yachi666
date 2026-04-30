@@ -114,12 +114,12 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-04-30** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/d8a37ff077055fd93219056bbd2930e5f95f9c49)
+- ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
+- ✨ **2026-04-30** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/bc430b19e1ffc06f5ad5e2e50b316ccd85138bae)
 - ✨ **2026-04-28** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #7 from yachi666/codex/update-ui-external-systems-pointer](https://github.com/yachi666/support-platform/commit/132f9556dd502590e820c989cd3021b5c1501c5a)
 - ✨ **2026-04-28** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #35 from yachi666/codex/viewer-external-systems-toolbar](https://github.com/yachi666/support-roster-ui/commit/93eee820ca9e9626f670e3d21c43e613a32c8797)
 - ✨ **2026-04-28** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #30 from yachi666/feat/linux-password-audit-staff-id](https://github.com/yachi666/support-roster-server/commit/c299b450a00a1630511c558a2cd634dddddd01b9)
 - ✨ **2026-04-14** · [fake-location-ios](https://github.com/yachi666/fake-location-ios) — [docs: split readme by language](https://github.com/yachi666/fake-location-ios/commit/15eac9745a162a9884f206ee5055787fc8fe8729)
-- ✨ **2026-04-02** · [game-demo](https://github.com/yachi666/game-demo) — [feat: align battle with the reference-image target](https://github.com/yachi666/game-demo/commit/7fe211540fac29a55fda50acec3992733b2943fa)
 <!--END_SECTION:recent-updates-->
 
   </td>
