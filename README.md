@@ -114,10 +114,10 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-01** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/bcf603c92ab5f2d850031a8f95d8c1a8214e7e52)
+- ✨ **2026-05-01** · [support-platform](https://github.com/yachi666/support-platform) — [docs: fix workspace component links](https://github.com/yachi666/support-platform/commit/147f605471cd4974a84841d88fc16aba1414f1b4)
+- ✨ **2026-05-01** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #38 from yachi666/feat/roster-direct-editing-action-bar](https://github.com/yachi666/support-roster-ui/commit/23f22b8ec02809e7762752ff163c7c5c0cc5b894)
+- ✨ **2026-05-01** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/20b9b802b40807d513020cfaadc5dfb2c0a76790)
 - ✨ **2026-05-01** · [clock-in](https://github.com/yachi666/clock-in) — [docs: publish project materials](https://github.com/yachi666/clock-in/commit/abf3cb8625f1f6323063f9d378adcf24274080d5)
-- ✨ **2026-05-01** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #9 from yachi666/chore/update-ui-motion-feedback](https://github.com/yachi666/support-platform/commit/0448021dfbacebd6e035b0454434e53851b9d634)
-- ✨ **2026-05-01** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #37 from yachi666/feat/workspace-motion-feedback](https://github.com/yachi666/support-roster-ui/commit/d4489414eb0dbd7c75bbe8d0886fbef8d47c9beb)
 - ✨ **2026-05-01** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #31 from yachi666/copilot/release-current-main](https://github.com/yachi666/support-roster-server/commit/f2c478dd80488230824b6dcec73d9160b98dc2bd)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
