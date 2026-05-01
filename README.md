@@ -114,11 +114,11 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-01** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/6510e543869b35ab89b6b850fa6724616ccec6a1)
-- ✨ **2026-05-01** · [support-platform](https://github.com/yachi666/support-platform) — [docs: fix workspace component links](https://github.com/yachi666/support-platform/commit/147f605471cd4974a84841d88fc16aba1414f1b4)
-- ✨ **2026-05-01** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #38 from yachi666/feat/roster-direct-editing-action-bar](https://github.com/yachi666/support-roster-ui/commit/23f22b8ec02809e7762752ff163c7c5c0cc5b894)
+- ✨ **2026-05-01** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/7ee1dd6a4815917fddd27d029fc392cc2075de80)
+- ✨ **2026-05-01** · [support-platform](https://github.com/yachi666/support-platform) — [Merge branch 'docs/optimize-readmes' into main](https://github.com/yachi666/support-platform/commit/1e656090c2184ea6c92b4a2b668ad89094c8607d)
+- ✨ **2026-05-01** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge branch 'docs/optimize-readmes' into main](https://github.com/yachi666/support-roster-ui/commit/149a2d509f4b0e64db62c8c708fb8c27871e77ee)
+- ✨ **2026-05-01** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge branch 'docs/optimize-readmes' into main](https://github.com/yachi666/support-roster-server/commit/d711cb03f563bb609889b4a219af973a9a1de081)
 - ✨ **2026-05-01** · [clock-in](https://github.com/yachi666/clock-in) — [docs: publish project materials](https://github.com/yachi666/clock-in/commit/abf3cb8625f1f6323063f9d378adcf24274080d5)
-- ✨ **2026-05-01** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #31 from yachi666/copilot/release-current-main](https://github.com/yachi666/support-roster-server/commit/f2c478dd80488230824b6dcec73d9160b98dc2bd)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
 
