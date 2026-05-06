@@ -114,11 +114,11 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-06** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/2b2a0d54b83d4e256b522789bf356cb5d3d9dcb1)
+- ✨ **2026-05-06** · [clock-in](https://github.com/yachi666/clock-in) — [Merge pull request #1 from yachi666/codex/fix-attendance-recovery-device-install](https://github.com/yachi666/clock-in/commit/6264cecaaa0e6c08aae8415541e7599121265642)
+- ✨ **2026-05-06** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/faffc2a870d33355aa7ada6745f943f3bb2c0431)
 - ✨ **2026-05-05** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #11 from yachi666/chore/update-ui-gitlink-roster-copy-selected-teams](https://github.com/yachi666/support-platform/commit/2356316a024ad9d1d0e5eeb286165b29279a8801)
 - ✨ **2026-05-05** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #39 from yachi666/feat/roster-copy-selected-teams](https://github.com/yachi666/support-roster-ui/commit/8ef687d23fc5937683818486ce8341e3092be1bf)
 - ✨ **2026-05-01** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge branch 'docs/optimize-readmes' into main](https://github.com/yachi666/support-roster-server/commit/d711cb03f563bb609889b4a219af973a9a1de081)
-- ✨ **2026-05-01** · [clock-in](https://github.com/yachi666/clock-in) — [docs: publish project materials](https://github.com/yachi666/clock-in/commit/abf3cb8625f1f6323063f9d378adcf24274080d5)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
 
