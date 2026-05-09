@@ -114,8 +114,8 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-09** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/d64360e8f253fc128b95c58fab2a18375f6ebf7c)
-- ✨ **2026-05-08** · [support-platform](https://github.com/yachi666/support-platform) — [Polish support platform blog](https://github.com/yachi666/support-platform/commit/2e6b9d28d9a914bfe51901347a1b9fba01926d7f)
+- ✨ **2026-05-09** · [support-platform](https://github.com/yachi666/support-platform) — [Highlight vibe coding in blog titles](https://github.com/yachi666/support-platform/commit/1294040fe18ff97fe6b39edc350702f01c2fc4e4)
+- ✨ **2026-05-09** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/c1bbdc73593e2bb17869a4421a60aa96d29df40d)
 - ✨ **2026-05-06** · [clock-in](https://github.com/yachi666/clock-in) — [Merge pull request #1 from yachi666/codex/fix-attendance-recovery-device-install](https://github.com/yachi666/clock-in/commit/6264cecaaa0e6c08aae8415541e7599121265642)
 - ✨ **2026-05-05** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #39 from yachi666/feat/roster-copy-selected-teams](https://github.com/yachi666/support-roster-ui/commit/8ef687d23fc5937683818486ce8341e3092be1bf)
 - ✨ **2026-05-01** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge branch 'docs/optimize-readmes' into main](https://github.com/yachi666/support-roster-server/commit/d711cb03f563bb609889b4a219af973a9a1de081)
