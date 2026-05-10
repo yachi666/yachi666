@@ -114,10 +114,10 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-10** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/c9ea823b4e546e801c1b6f09a4e32e3f9f686c99)
-- ✨ **2026-05-09** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #14 from yachi666/workspace-six-issue-fixes-platform](https://github.com/yachi666/support-platform/commit/5975bd788cb5ee593d682c2275ae25973816733b)
+- ✨ **2026-05-10** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #15 from yachi666/chore/remove-legacy-sql-fixtures](https://github.com/yachi666/support-platform/commit/b7a8477ae176fd3c1e2117d5292d4c04d0a6fe84)
+- ✨ **2026-05-10** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #34 from yachi666/chore/ignore-dsstore-cleanup](https://github.com/yachi666/support-roster-server/commit/530b99529d04864a974e1e6dc2897cd66769c5b7)
+- ✨ **2026-05-10** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/698f6aa12e09b24cc85627ce89d6bb22fc8a9834)
 - ✨ **2026-05-09** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #41 from yachi666/workspace-six-issue-fixes-ui](https://github.com/yachi666/support-roster-ui/commit/c8d66fbc0e516ef072083ebc2f5870429ee52792)
-- ✨ **2026-05-09** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #33 from yachi666/workspace-six-issue-fixes-server](https://github.com/yachi666/support-roster-server/commit/63232e506fe41a08b353bd38d1b683ce2dcd7d70)
 - ✨ **2026-05-06** · [clock-in](https://github.com/yachi666/clock-in) — [Merge pull request #1 from yachi666/codex/fix-attendance-recovery-device-install](https://github.com/yachi666/clock-in/commit/6264cecaaa0e6c08aae8415541e7599121265642)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
