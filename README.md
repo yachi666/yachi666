@@ -114,10 +114,10 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-11** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/59983534890f6e62662c6e1827a4a2fe2e5bb159)
-- ✨ **2026-05-10** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #15 from yachi666/chore/remove-legacy-sql-fixtures](https://github.com/yachi666/support-platform/commit/b7a8477ae176fd3c1e2117d5292d4c04d0a6fe84)
-- ✨ **2026-05-10** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #34 from yachi666/chore/ignore-dsstore-cleanup](https://github.com/yachi666/support-roster-server/commit/530b99529d04864a974e1e6dc2897cd66769c5b7)
-- ✨ **2026-05-09** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #41 from yachi666/workspace-six-issue-fixes-ui](https://github.com/yachi666/support-roster-ui/commit/c8d66fbc0e516ef072083ebc2f5870429ee52792)
+- ✨ **2026-05-11** · [support-platform](https://github.com/yachi666/support-platform) — [chore(submodule): update support-roster-server](https://github.com/yachi666/support-platform/commit/b58cc0561d156b664d869c884c0dec25a609346c)
+- ✨ **2026-05-11** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #42 from yachi666/workspace-shift-reorder-ui](https://github.com/yachi666/support-roster-ui/commit/4a22bc3baf167ee2fbcdc8be3206b830bb9576db)
+- ✨ **2026-05-11** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #35 from yachi666/workspace-shift-reorder-server](https://github.com/yachi666/support-roster-server/commit/587de914cd632af4b9ac5b5a7ecfbbfab9a1aff4)
+- ✨ **2026-05-11** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/fe8ee7f4f44cdbdd2486eb831eb042aaa291ff01)
 - ✨ **2026-05-06** · [clock-in](https://github.com/yachi666/clock-in) — [Merge pull request #1 from yachi666/codex/fix-attendance-recovery-device-install](https://github.com/yachi666/clock-in/commit/6264cecaaa0e6c08aae8415541e7599121265642)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
