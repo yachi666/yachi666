@@ -114,11 +114,11 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-12** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/4f1ece757852c1bbcf6a7da95627058dfbaf2dc7)
+- ✨ **2026-05-12** · [clock-in](https://github.com/yachi666/clock-in) — [Update attendance exit handling and app icon](https://github.com/yachi666/clock-in/commit/935351fec8acac85a0dc5c0e82e19198129b1edd)
+- ✨ **2026-05-12** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b203070d1562a45c86a0e8847121f3769c5cd50a)
 - ✨ **2026-05-11** · [support-platform](https://github.com/yachi666/support-platform) — [chore(submodule): update support-roster-server](https://github.com/yachi666/support-platform/commit/b58cc0561d156b664d869c884c0dec25a609346c)
 - ✨ **2026-05-11** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #42 from yachi666/workspace-shift-reorder-ui](https://github.com/yachi666/support-roster-ui/commit/4a22bc3baf167ee2fbcdc8be3206b830bb9576db)
 - ✨ **2026-05-11** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #35 from yachi666/workspace-shift-reorder-server](https://github.com/yachi666/support-roster-server/commit/587de914cd632af4b9ac5b5a7ecfbbfab9a1aff4)
-- ✨ **2026-05-06** · [clock-in](https://github.com/yachi666/clock-in) — [Merge pull request #1 from yachi666/codex/fix-attendance-recovery-device-install](https://github.com/yachi666/clock-in/commit/6264cecaaa0e6c08aae8415541e7599121265642)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
 
