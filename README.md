@@ -114,10 +114,10 @@
     <td valign="top">
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-05-18** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/1cf8fb2788b35f015a241a5e695d867e5457b08a)
+- ✨ **2026-05-18** · [clock-in](https://github.com/yachi666/clock-in) — [fix(scripts): avoid device codesign metadata issue](https://github.com/yachi666/clock-in/commit/58acf776421a663749c64d7bd78ff34ec689bbbc)
+- ✨ **2026-05-18** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/7c5233396eaf619942f43c9edb7ac1ce6e4f4f01)
 - ✨ **2026-05-14** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #17 from yachi666/chore/update-support-roster-ui-viewer-hubs](https://github.com/yachi666/support-platform/commit/cf710e9d05c366a42d00f846358b06593c544964)
 - ✨ **2026-05-14** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #43 from yachi666/fix-viewer-hub-labels](https://github.com/yachi666/support-roster-ui/commit/8d9c54538d522d34adba4be6161f0d0ee3cc1ac5)
-- ✨ **2026-05-12** · [clock-in](https://github.com/yachi666/clock-in) — [Update attendance exit handling and app icon](https://github.com/yachi666/clock-in/commit/935351fec8acac85a0dc5c0e82e19198129b1edd)
 - ✨ **2026-05-11** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #35 from yachi666/workspace-shift-reorder-server](https://github.com/yachi666/support-roster-server/commit/587de914cd632af4b9ac5b5a7ecfbbfab9a1aff4)
 - ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
