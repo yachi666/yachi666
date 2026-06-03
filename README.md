@@ -57,12 +57,12 @@ Currently focused on:
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-03** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/15b2f525c5810557ba05770af97b3fd9df4a92bf)
+- ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
+- ✨ **2026-06-03** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/878f96c0e06ccfd24a7e667cd0e893606099f00a)
 - ✨ **2026-05-19** · [clock-in](https://github.com/yachi666/clock-in) — [fix(dashboard): refine records scrolling and month controls](https://github.com/yachi666/clock-in/commit/0fa6c36cb63ff79e59357ea6ef41a699af93bb09)
 - ✨ **2026-05-14** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #17 from yachi666/chore/update-support-roster-ui-viewer-hubs](https://github.com/yachi666/support-platform/commit/cf710e9d05c366a42d00f846358b06593c544964)
 - ✨ **2026-05-14** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #43 from yachi666/fix-viewer-hub-labels](https://github.com/yachi666/support-roster-ui/commit/8d9c54538d522d34adba4be6161f0d0ee3cc1ac5)
 - ✨ **2026-05-11** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [Merge pull request #35 from yachi666/workspace-shift-reorder-server](https://github.com/yachi666/support-roster-server/commit/587de914cd632af4b9ac5b5a7ecfbbfab9a1aff4)
-- ✨ **2026-04-30** · [aws-lightsail-wireguard-vpn](https://github.com/yachi666/aws-lightsail-wireguard-vpn) — [docs: improve quick start presets](https://github.com/yachi666/aws-lightsail-wireguard-vpn/commit/1587e3cb25a37ebe2466d57621dbe072aa0c902e)
 <!--END_SECTION:recent-updates-->
 
 <div align="center">
