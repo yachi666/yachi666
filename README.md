@@ -57,8 +57,8 @@ Currently focused on:
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [Initial React TypeScript app](https://github.com/yachi666/messaging-testing-assistant/commit/3390ade1d378aa6826481e87029753dcf8ffd9a7)
-- ✨ **2026-06-09** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/8435cff4d73e7c6afb518c2b2c5621853918a779)
+- ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [Redesign UI as document workflow studio](https://github.com/yachi666/messaging-testing-assistant/commit/9369d8ccb50c0cd9c7789bae6b6182e8de64cb40)
+- ✨ **2026-06-09** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/957288a5b594b36cb95cb80a96d3b891b91da71e)
 - ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
 - ✨ **2026-05-19** · [clock-in](https://github.com/yachi666/clock-in) — [fix(dashboard): refine records scrolling and month controls](https://github.com/yachi666/clock-in/commit/0fa6c36cb63ff79e59357ea6ef41a699af93bb09)
 - ✨ **2026-05-14** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #17 from yachi666/chore/update-support-roster-ui-viewer-hubs](https://github.com/yachi666/support-platform/commit/cf710e9d05c366a42d00f846358b06593c544964)
