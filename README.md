@@ -57,12 +57,12 @@ Currently focused on:
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-12** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/4c28483937309058e69f9ae1aadaccbf99fcea1e)
+- ✨ **2026-06-12** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(workspace): simplify overview activity home (#44)](https://github.com/yachi666/support-roster-ui/commit/84ec169b91333c7ff90526dbe8823005f0d8cae3)
+- ✨ **2026-06-12** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/fd5a78203ec2748963ada37f1974942411f57b63)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
 - ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
 - ✨ **2026-05-19** · [clock-in](https://github.com/yachi666/clock-in) — [fix(dashboard): refine records scrolling and month controls](https://github.com/yachi666/clock-in/commit/0fa6c36cb63ff79e59357ea6ef41a699af93bb09)
 - ✨ **2026-05-14** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #17 from yachi666/chore/update-support-roster-ui-viewer-hubs](https://github.com/yachi666/support-platform/commit/cf710e9d05c366a42d00f846358b06593c544964)
-- ✨ **2026-05-14** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #43 from yachi666/fix-viewer-hub-labels](https://github.com/yachi666/support-roster-ui/commit/8d9c54538d522d34adba4be6161f0d0ee3cc1ac5)
 <!--END_SECTION:recent-updates-->
 
 <div align="center">
