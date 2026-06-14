@@ -72,8 +72,8 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-14** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [chore: replace HSBC mock data with CMB](https://github.com/yachi666/group-messaging-inventory/commit/4613749542e9aee34ac64586041ba8a13077619b)
-- ✨ **2026-06-14** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a9721c5e294ba0d4ea03880b8632a2e391cf489b)
+- ✨ **2026-06-14** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [fix(ui): refine dashboard layout and states](https://github.com/yachi666/group-messaging-inventory/commit/ef1d764a228d35e02e3fa41ceea72bf459c6ba97)
+- ✨ **2026-06-14** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/2ed2cb1c9c8880cecad85d7513d5cbdce8017e0c)
 - ✨ **2026-06-12** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(workspace): simplify overview activity home (#44)](https://github.com/yachi666/support-roster-ui/commit/84ec169b91333c7ff90526dbe8823005f0d8cae3)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
 - ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
