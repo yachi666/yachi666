@@ -72,12 +72,12 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-14** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/d12bede16bd89780ca0cad90e30587fb22fa7e47)
+- ✨ **2026-06-14** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [chore: replace HSBC mock data with CMB](https://github.com/yachi666/group-messaging-inventory/commit/4613749542e9aee34ac64586041ba8a13077619b)
+- ✨ **2026-06-14** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a9721c5e294ba0d4ea03880b8632a2e391cf489b)
 - ✨ **2026-06-12** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(workspace): simplify overview activity home (#44)](https://github.com/yachi666/support-roster-ui/commit/84ec169b91333c7ff90526dbe8823005f0d8cae3)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
 - ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
 - ✨ **2026-05-19** · [clock-in](https://github.com/yachi666/clock-in) — [fix(dashboard): refine records scrolling and month controls](https://github.com/yachi666/clock-in/commit/0fa6c36cb63ff79e59357ea6ef41a699af93bb09)
-- ✨ **2026-05-14** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #17 from yachi666/chore/update-support-roster-ui-viewer-hubs](https://github.com/yachi666/support-platform/commit/cf710e9d05c366a42d00f846358b06593c544964)
 <!--END_SECTION:recent-updates-->
 
 <div align="center">
