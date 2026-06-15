@@ -72,12 +72,12 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-15** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/20fb1ec397d6533a2b6276acf2eec9341dc3b82e)
+- ✨ **2026-06-15** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #18 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-platform/commit/52ac6862c966d4e6a91d9e6b198eb02aae721ffa)
+- ✨ **2026-06-15** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #45 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-roster-ui/commit/855ec0201516465ef56b8df466f6605e2534ccd1)
+- ✨ **2026-06-15** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/49a3c79cce5e0946e5ac068a92026e3e451e013b)
 - ✨ **2026-06-15** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [feat(analytics): add floating chat assistant](https://github.com/yachi666/group-messaging-inventory/commit/757bb16df4f8e4b8f8766ea7c92311397be010f9)
-- ✨ **2026-06-12** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(workspace): simplify overview activity home (#44)](https://github.com/yachi666/support-roster-ui/commit/84ec169b91333c7ff90526dbe8823005f0d8cae3)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
 - ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
-- ✨ **2026-05-19** · [clock-in](https://github.com/yachi666/clock-in) — [fix(dashboard): refine records scrolling and month controls](https://github.com/yachi666/clock-in/commit/0fa6c36cb63ff79e59357ea6ef41a699af93bb09)
 <!--END_SECTION:recent-updates-->
 
 <div align="center">
