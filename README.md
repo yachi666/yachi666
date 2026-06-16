@@ -72,10 +72,10 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-16** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b1a4e5b0118ad805eda9a552ad1abfebbd00c448)
+- ✨ **2026-06-16** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [feat: add AI chat feature with context provider and floating chat UI](https://github.com/yachi666/group-messaging-inventory/commit/37905fb5cdce9ed9fd9f1794a02c5c2ca0c182ad)
+- ✨ **2026-06-16** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/e682404517f1415ea660aa0d30f7c8f133b5b840)
 - ✨ **2026-06-15** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #18 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-platform/commit/52ac6862c966d4e6a91d9e6b198eb02aae721ffa)
 - ✨ **2026-06-15** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #45 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-roster-ui/commit/855ec0201516465ef56b8df466f6605e2534ccd1)
-- ✨ **2026-06-15** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [feat(analytics): add floating chat assistant](https://github.com/yachi666/group-messaging-inventory/commit/757bb16df4f8e4b8f8766ea7c92311397be010f9)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
 - ✨ **2026-06-03** · [performance-test](https://github.com/yachi666/performance-test) — [feat: initialize api performance test workspace](https://github.com/yachi666/performance-test/commit/5093891269039a81941c6e379639b5ad8f6376c4)
 <!--END_SECTION:recent-updates-->
