@@ -72,8 +72,8 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-22** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/e9b839aa4dd577d5c85ecd33a9dd9e0ab86af807)
-- ✨ **2026-06-20** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [优化 General Statistics 页面：Grid 布局重写、SVG 进度环、暗色模式、响应式支持](https://github.com/yachi666/group-messaging-inventory/commit/3a62ad004d237f9c9d82fe91a37c9534e1237783)
+- ✨ **2026-06-22** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [update](https://github.com/yachi666/group-messaging-inventory/commit/92fd2c90659031502fffd8f429eea56f86d1ed0a)
+- ✨ **2026-06-22** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/03a38d58061cc9ae385923e39e7b131f26ef0dcf)
 - ✨ **2026-06-15** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #18 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-platform/commit/52ac6862c966d4e6a91d9e6b198eb02aae721ffa)
 - ✨ **2026-06-15** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #45 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-roster-ui/commit/855ec0201516465ef56b8df466f6605e2534ccd1)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
