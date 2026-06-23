@@ -72,8 +72,8 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-23** · [sketch-test](https://github.com/yachi666/sketch-test) — [feat: add report center, test plans, environments, and variable management UI](https://github.com/yachi666/sketch-test/commit/813f0a21582d0e7faa7cc58d9a9f375d1223a7a3)
-- ✨ **2026-06-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/7e386a5cc5afb0e6efaf20a7d2e3f1c5b1ae626b)
+- ✨ **2026-06-23** · [sketch-test](https://github.com/yachi666/sketch-test) — [fix: resolve white screen by fixing circular chunk dependency in production build](https://github.com/yachi666/sketch-test/commit/639d7c68b55ebf54b404c5fe1d7cac1b0af9c424)
+- ✨ **2026-06-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/06840e6bcfc68e1f14f3105bb957b0b90445dd42)
 - ✨ **2026-06-22** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [update](https://github.com/yachi666/group-messaging-inventory/commit/92fd2c90659031502fffd8f429eea56f86d1ed0a)
 - ✨ **2026-06-15** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #18 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-platform/commit/52ac6862c966d4e6a91d9e6b198eb02aae721ffa)
 - ✨ **2026-06-15** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #45 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-roster-ui/commit/855ec0201516465ef56b8df466f6605e2534ccd1)
