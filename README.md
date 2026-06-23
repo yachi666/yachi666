@@ -72,8 +72,8 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/651b5603560e1791ca528bc9377455dcc3bf59a5)
-- ✨ **2026-06-22** · [sketch-test](https://github.com/yachi666/sketch-test) — [chore: add Playwright and pnpm patterns to .gitignore, untrack root screenshots](https://github.com/yachi666/sketch-test/commit/015ff5231bdc809ee2415fb158c2d5fa7d2cf954)
+- ✨ **2026-06-23** · [sketch-test](https://github.com/yachi666/sketch-test) — [docs: add architecture review doc and update README links; add project screenshots](https://github.com/yachi666/sketch-test/commit/355ed4a9c808033d80291238607729852bd838b7)
+- ✨ **2026-06-23** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a07759117bd6e1cd034984121ad35a0994acb5f4)
 - ✨ **2026-06-22** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [update](https://github.com/yachi666/group-messaging-inventory/commit/92fd2c90659031502fffd8f429eea56f86d1ed0a)
 - ✨ **2026-06-15** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #18 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-platform/commit/52ac6862c966d4e6a91d9e6b198eb02aae721ffa)
 - ✨ **2026-06-15** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #45 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-roster-ui/commit/855ec0201516465ef56b8df466f6605e2534ccd1)
