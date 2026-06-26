@@ -72,9 +72,9 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-06-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/610698652b9759885ce77c6941fcee318336cd64)
+- ✨ **2026-06-26** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [feat(ai): enhance floating chat with drag, animations, and position persistence](https://github.com/yachi666/group-messaging-inventory/commit/06dcb3fd06925a9786ec86b9decc9174033d2404)
+- ✨ **2026-06-26** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b295c63f58f1992b9f6d2718be89d68d2523a2a9)
 - ✨ **2026-06-24** · [sketch-test](https://github.com/yachi666/sketch-test) — [feat: add web store tests, CP module tests, and web app improvements](https://github.com/yachi666/sketch-test/commit/838b1d1fb301eb291247899c8a4d648aac63d75f)
-- ✨ **2026-06-22** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [update](https://github.com/yachi666/group-messaging-inventory/commit/92fd2c90659031502fffd8f429eea56f86d1ed0a)
 - ✨ **2026-06-15** · [support-platform](https://github.com/yachi666/support-platform) — [Merge pull request #18 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-platform/commit/52ac6862c966d4e6a91d9e6b198eb02aae721ffa)
 - ✨ **2026-06-15** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [Merge pull request #45 from yachi666/codex/workspace-login-lightweight](https://github.com/yachi666/support-roster-ui/commit/855ec0201516465ef56b8df466f6605e2534ccd1)
 - ✨ **2026-06-09** · [messaging-testing-assistant](https://github.com/yachi666/messaging-testing-assistant) — [feat(api): connect UI actions to backend endpoints](https://github.com/yachi666/messaging-testing-assistant/commit/f9e0ee2867f6aead015275719bb5fb79477744d1)
