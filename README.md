@@ -72,9 +72,9 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-07-06** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/b26741699c2ea0ab92f7f31446154cd4601303ff)
-- ✨ **2026-07-02** · [support-platform](https://github.com/yachi666/support-platform) — [chore: update support-roster-server gitlink (jackson-databind CVE fix) (#21)](https://github.com/yachi666/support-platform/commit/99c7a050ea5c2b3d0bf2a47bc22f058a26860025)
-- ✨ **2026-07-02** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix(server): upgrade jackson-databind from 2.20.2 to 2.22.0 to fix CVE (#38)](https://github.com/yachi666/support-roster-server/commit/76ff187eca98facb81560611b12cb76e6dd70b32)
+- ✨ **2026-07-06** · [support-platform](https://github.com/yachi666/support-platform) — [chore: update support-roster-server gitlink (Spring Boot 4.1.0) (#22)](https://github.com/yachi666/support-platform/commit/4268099ce7684b84f7e2eac5703abd316b32cfa8)
+- ✨ **2026-07-06** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [chore(server): upgrade Spring Boot from 4.0.3 to 4.1.0 (#39)](https://github.com/yachi666/support-roster-server/commit/d5f9272914a3280e74a2542cb246579cd9dfa2e1)
+- ✨ **2026-07-06** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/1bfd04962b46403f88869cdd7e086e601d61f68f)
 - ✨ **2026-07-01** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(auth): update login page for self-registration flow](https://github.com/yachi666/support-roster-ui/commit/9726f0fe9e683940e18b2f10047a2290360035bb)
 - ✨ **2026-06-26** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [feat(ai): enhance floating chat with drag, animations, and position persistence](https://github.com/yachi666/group-messaging-inventory/commit/06dcb3fd06925a9786ec86b9decc9174033d2404)
 - ✨ **2026-06-24** · [sketch-test](https://github.com/yachi666/sketch-test) — [feat: add web store tests, CP module tests, and web app improvements](https://github.com/yachi666/sketch-test/commit/838b1d1fb301eb291247899c8a4d648aac63d75f)
