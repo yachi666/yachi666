@@ -72,12 +72,12 @@ Right now my work sits at the intersection of product engineering, support opera
 ## Recent Commits
 
 <!--START_SECTION:recent-updates-->
-- ✨ **2026-07-07** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/20f471f9de48c6cde74ab601b46befdd48680504)
+- ✨ **2026-07-07** · [group-messaging-inventory-web](https://github.com/yachi666/group-messaging-inventory-web) — [Extract standalone frontend](https://github.com/yachi666/group-messaging-inventory-web/commit/4b0cacf142be29e42c2eb69da9509d9a36fcd016)
+- ✨ **2026-07-07** · [yachi666](https://github.com/yachi666/yachi666) — [chore: update recent commits](https://github.com/yachi666/yachi666/commit/a3a413bd05bde2388fce909532453bf47da76a06)
 - ✨ **2026-07-06** · [support-platform](https://github.com/yachi666/support-platform) — [chore: update server submodule pointer](https://github.com/yachi666/support-platform/commit/0084563ba96f44b048c73ac5f02cddcd54886f97)
 - ✨ **2026-07-06** · [support-roster-server](https://github.com/yachi666/support-roster-server) — [fix(test): stabilize Maven Surefire execution](https://github.com/yachi666/support-roster-server/commit/f316473c15d8564fb61eb5fdb4eb8a5c06be4939)
 - ✨ **2026-07-01** · [support-roster-ui](https://github.com/yachi666/support-roster-ui) — [feat(auth): update login page for self-registration flow](https://github.com/yachi666/support-roster-ui/commit/9726f0fe9e683940e18b2f10047a2290360035bb)
 - ✨ **2026-06-26** · [group-messaging-inventory](https://github.com/yachi666/group-messaging-inventory) — [feat(ai): enhance floating chat with drag, animations, and position persistence](https://github.com/yachi666/group-messaging-inventory/commit/06dcb3fd06925a9786ec86b9decc9174033d2404)
-- ✨ **2026-06-24** · [sketch-test](https://github.com/yachi666/sketch-test) — [feat: add web store tests, CP module tests, and web app improvements](https://github.com/yachi666/sketch-test/commit/838b1d1fb301eb291247899c8a4d648aac63d75f)
 <!--END_SECTION:recent-updates-->
 
 <div align="center">
